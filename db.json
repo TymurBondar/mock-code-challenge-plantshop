@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8,
+      "name": "Cornkillah",
+      "image": "https://i.ytimg.com/vi/GF_vQpROn_M/maxresdefault.jpg",
+      "price": 69
     }
   ]
 }
